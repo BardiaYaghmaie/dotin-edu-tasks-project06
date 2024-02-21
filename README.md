@@ -24,5 +24,5 @@ wiki: https://www.linuxtechi.com/install-kubernetes-using-kubespray/
 ## Step 1
 1- In yout master node (w/ root) clone project06 git repository and create your services (microservices should be ClusterIP)
 ```
-kubectl apply -f shop/shop-service.yml
+kubectl apply -f shop/shop-service.yml 
 ```
